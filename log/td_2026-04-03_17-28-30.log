@@ -1,0 +1,1818 @@
+============================================================
+   Tang Dynasty, V6.2.168116
+   Copyright (c) 2012-2025 Anlogic Inc.
+   Executable = D:/Anlogic/TD_6.2.1_Engineer_6.2.168.116/bin/td.exe
+   Built at =   16:32:07 Jun 12 2025
+   Run by =     30736
+   Run Date =   Fri Apr  3 17:28:30 2026
+
+   Run on =     THE_WALK
+============================================================
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file sm_scan.v
+HDL-1007 : analyze verilog file cpu_top.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+GUI-6001 WARNING: File sm_scan.v does not exist!
+GUI-6001 WARNING: File D:/LHY/anlu/CPU/sm_scan.v does not exist!
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : undeclared symbol 'key1', assumed default net type 'wire' in cpu_top.v(18)
+HDL-1007 : analyze verilog file digital_show.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+PRJ-1409 : launch_runs syn_1 phy_1  -jobs 6.
+PRJ-1410 : Run syn_1 success.
+PRJ-1410 : Run phy_1 success.
+RUN-1002 : start command "save_best_bits"
+PRJ-1424 : The implemented result of phy_1 is saved as best result.
+RUN-1002 : start command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V6.2.168116.
+RUN-1001 : Database version number 46207
+RUN-1001 : Import flow parameters
+RUN-1001 : Import netlist
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : End build routing graph; 4.169802s wall, 4.093750s user + 0.078125s system = 4.171875s CPU (100.0%)
+
+PHY-1001 : Build lut bridge;  0.078167s wall, 0.046875s user + 0.015625s system = 0.062500s CPU (80.0%)
+
+PHY-1001 : Generate nets ...
+PHY-1001 : net clk_dup_1 will be routed on clock mesh
+PHY-1001 : eco open net = 0
+PHY-1001 : 0 feed throughs used by 0 nets
+RUN-1001 : Import phy database
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import ChipWatcher
+RUN-1001 : Import design success TD_VERSION=6.2.168116 , DB_VERSION=46207
+RUN-1003 : finish command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db" in  4.470221s wall, 4.281250s user + 0.156250s system = 4.437500s CPU (99.3%)
+
+RUN-1004 : used memory is 518 MB, reserved memory is 477 MB, peak memory is 580 MB
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+PRJ-1412 : reset_run syn_1 phy_1.
+PRJ-1409 : launch_runs syn_1 phy_1  -jobs 6.
+PRJ-1410 : Run syn_1 success.
+PRJ-1410 : Run phy_1 success.
+RUN-1002 : start command "save_best_bits"
+PRJ-1424 : The implemented result of phy_1 is saved as best result.
+RUN-1002 : start command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V6.2.168116.
+RUN-1001 : Database version number 46207
+RUN-1001 : Import flow parameters
+RUN-1001 : Import netlist
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : End build routing graph; 0.997545s wall, 0.984375s user + 0.031250s system = 1.015625s CPU (101.8%)
+
+PHY-1001 : Build lut bridge;  0.081330s wall, 0.062500s user + 0.000000s system = 0.062500s CPU (76.8%)
+
+PHY-1001 : Generate nets ...
+PHY-1001 : net clk_dup_1 will be routed on clock mesh
+PHY-1001 : eco open net = 0
+PHY-1001 : 1 feed throughs used by 1 nets
+RUN-1001 : Import phy database
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import ChipWatcher
+RUN-1001 : Import design success TD_VERSION=6.2.168116 , DB_VERSION=46207
+RUN-1003 : finish command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db" in  1.447844s wall, 1.343750s user + 0.078125s system = 1.421875s CPU (98.2%)
+
+RUN-1004 : used memory is 524 MB, reserved memory is 494 MB, peak memory is 583 MB
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+PRJ-1412 : reset_run syn_1 phy_1.
+PRJ-1409 : launch_runs syn_1 phy_1  -jobs 6.
+PRJ-1410 : Run syn_1 success.
+PRJ-1410 : Run phy_1 success.
+RUN-1002 : start command "save_best_bits"
+PRJ-1424 : The implemented result of phy_1 is saved as best result.
+RUN-1002 : start command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V6.2.168116.
+RUN-1001 : Database version number 46207
+RUN-1001 : Import flow parameters
+RUN-1001 : Import netlist
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : End build routing graph; 1.087563s wall, 1.000000s user + 0.093750s system = 1.093750s CPU (100.6%)
+
+PHY-1001 : Build lut bridge;  0.088802s wall, 0.062500s user + 0.000000s system = 0.062500s CPU (70.4%)
+
+PHY-1001 : Generate nets ...
+PHY-1001 : net clk_dup_1 will be routed on clock mesh
+PHY-1001 : eco open net = 0
+PHY-1001 : 1 feed throughs used by 1 nets
+RUN-1001 : Import phy database
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import ChipWatcher
+RUN-1001 : Import design success TD_VERSION=6.2.168116 , DB_VERSION=46207
+RUN-1003 : finish command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db" in  1.583768s wall, 1.406250s user + 0.140625s system = 1.546875s CPU (97.7%)
+
+RUN-1004 : used memory is 528 MB, reserved memory is 500 MB, peak memory is 587 MB
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-8007 ERROR: 'regs' is not declared under prefix 'u_regfile' in cpu_top.v(189)
+HDL-8007 ERROR: 'regs' is not declared under prefix 'u_regfile' in cpu_top.v(190)
+HDL-8007 ERROR: 'regs' is not declared under prefix 'u_regfile' in cpu_top.v(191)
+HDL-8007 ERROR: 'regs' is not declared under prefix 'u_regfile' in cpu_top.v(192)
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-8007 ERROR: cannot find port 'clk' on this module in cpu_top.v(190)
+HDL-8007 ERROR: cannot find port 'rst' on this module in cpu_top.v(191)
+HDL-8007 ERROR: cannot find port 'opcode' on this module in cpu_top.v(192)
+HDL-8007 ERROR: cannot find port 'z_flag' on this module in cpu_top.v(193)
+HDL-8007 ERROR: cannot find port 'c_flag' on this module in cpu_top.v(194)
+HDL-8007 ERROR: cannot find port 'ir_load' on this module in cpu_top.v(196)
+HDL-8007 ERROR: cannot find port 'pc_load' on this module in cpu_top.v(197)
+HDL-8007 ERROR: cannot find port 'pc_src' on this module in cpu_top.v(198)
+HDL-8007 ERROR: cannot find port 'reg_we' on this module in cpu_top.v(200)
+HDL-8007 ERROR: cannot find port 'mem_we' on this module in cpu_top.v(201)
+HDL-8007 Similar messages will be suppressed.
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-8007 ERROR: cannot find port 'clk' on this module in cpu_top.v(133)
+HDL-8007 ERROR: cannot find port 'rst' on this module in cpu_top.v(134)
+HDL-8007 ERROR: cannot find port 'load' on this module in cpu_top.v(135)
+HDL-8007 ERROR: cannot find port 'next_pc' on this module in cpu_top.v(136)
+HDL-8007 ERROR: cannot find port 'pc_out' on this module in cpu_top.v(137)
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-8007 ERROR: cannot find port 'clk' on this module in cpu_top.v(148)
+HDL-8007 ERROR: cannot find port 'rst' on this module in cpu_top.v(149)
+HDL-8007 ERROR: cannot find port 'load' on this module in cpu_top.v(150)
+HDL-8007 ERROR: cannot find port 'instr_in' on this module in cpu_top.v(151)
+HDL-8007 ERROR: cannot find port 'instr_out' on this module in cpu_top.v(152)
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-8007 ERROR: cannot find port 'clk' on this module in cpu_top.v(158)
+HDL-8007 ERROR: cannot find port 'we' on this module in cpu_top.v(159)
+HDL-8007 ERROR: cannot find port 'raddr1' on this module in cpu_top.v(160)
+HDL-8007 ERROR: cannot find port 'raddr2' on this module in cpu_top.v(161)
+HDL-8007 ERROR: cannot find port 'waddr' on this module in cpu_top.v(162)
+HDL-8007 ERROR: cannot find port 'wdata' on this module in cpu_top.v(163)
+HDL-8007 ERROR: cannot find port 'rdata1' on this module in cpu_top.v(164)
+HDL-8007 ERROR: cannot find port 'rdata2' on this module in cpu_top.v(165)
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-8007 ERROR: cannot find port 'a' on this module in cpu_top.v(170)
+HDL-8007 ERROR: cannot find port 'b' on this module in cpu_top.v(171)
+HDL-8007 ERROR: cannot find port 'alu_op' on this module in cpu_top.v(172)
+HDL-8007 ERROR: cannot find port 'y' on this module in cpu_top.v(173)
+HDL-8007 ERROR: cannot find port 'z' on this module in cpu_top.v(174)
+HDL-8007 ERROR: cannot find port 'c' on this module in cpu_top.v(175)
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-8007 ERROR: cannot find port 'clk' on this module in cpu_top.v(180)
+HDL-8007 ERROR: cannot find port 'we' on this module in cpu_top.v(181)
+HDL-8007 ERROR: cannot find port 'addr' on this module in cpu_top.v(182)
+HDL-8007 ERROR: cannot find port 'din' on this module in cpu_top.v(183)
+HDL-8007 ERROR: cannot find port 'dout' on this module in cpu_top.v(184)
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+HDL-8007 ERROR: cannot find port 'addr' on this module in cpu_top.v(142)
+HDL-8007 ERROR: cannot find port 'data' on this module in cpu_top.v(143)
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+PRJ-1412 : reset_run syn_1 phy_1.
+PRJ-1409 : launch_runs syn_1 phy_1  -jobs 6.
+PRJ-1410 : Run syn_1 success.
+RUN-1002 : start command "save_best_bits"
+PRJ-1424 : The implemented result of phy_1 is saved as best result.
+PRJ-1410 : Run phy_1 success.
+RUN-1002 : start command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V6.2.168116.
+RUN-1001 : Database version number 46207
+RUN-1001 : Import flow parameters
+RUN-1001 : Import netlist
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : End build routing graph; 1.211437s wall, 0.781250s user + 0.125000s system = 0.906250s CPU (74.8%)
+
+PHY-1001 : Build lut bridge;  0.093428s wall, 0.046875s user + 0.000000s system = 0.046875s CPU (50.2%)
+
+PHY-1001 : Generate nets ...
+PHY-1001 : net clk_dup_1 will be routed on clock mesh
+PHY-1001 : eco open net = 0
+PHY-1001 : 7 feed throughs used by 7 nets
+RUN-1001 : Import phy database
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import ChipWatcher
+RUN-1001 : Import design success TD_VERSION=6.2.168116 , DB_VERSION=46207
+RUN-1003 : finish command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db" in  2.281912s wall, 1.421875s user + 0.359375s system = 1.781250s CPU (78.1%)
+
+RUN-1004 : used memory is 514 MB, reserved memory is 539 MB, peak memory is 587 MB
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+PRJ-1412 : reset_run syn_1 phy_1.
+PRJ-1409 : launch_runs syn_1 phy_1  -jobs 6.
+PRJ-1410 : Run syn_1 success.
+PRJ-1410 : Run phy_1 success.
+RUN-1002 : start command "save_best_bits"
+PRJ-1424 : The implemented result of phy_1 is saved as best result.
+RUN-1002 : start command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V6.2.168116.
+RUN-1001 : Database version number 46207
+RUN-1001 : Import flow parameters
+RUN-1001 : Import netlist
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : End build routing graph; 1.009744s wall, 0.875000s user + 0.031250s system = 0.906250s CPU (89.8%)
+
+PHY-1001 : Build lut bridge;  0.082114s wall, 0.093750s user + 0.000000s system = 0.093750s CPU (114.2%)
+
+PHY-1001 : Generate nets ...
+PHY-1001 : net clk_dup_1 will be routed on clock mesh
+PHY-1001 : eco open net = 0
+PHY-1001 : 11 feed throughs used by 11 nets
+RUN-1001 : Import phy database
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import ChipWatcher
+RUN-1001 : Import design success TD_VERSION=6.2.168116 , DB_VERSION=46207
+RUN-1003 : finish command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db" in  1.628913s wall, 1.390625s user + 0.093750s system = 1.484375s CPU (91.1%)
+
+RUN-1004 : used memory is 536 MB, reserved memory is 527 MB, peak memory is 587 MB
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-8007 ERROR: syntax error near '[' in cpu_top.v(211)
+HDL-8007 ERROR: syntax error near ':' in cpu_top.v(212)
+HDL-8007 ERROR: syntax error near ':' in cpu_top.v(213)
+HDL-8007 ERROR: syntax error near ':' in cpu_top.v(214)
+HDL-8007 ERROR: syntax error near ':' in cpu_top.v(215)
+HDL-8007 ERROR: syntax error near ':' in cpu_top.v(216)
+HDL-8007 ERROR: syntax error near ':' in cpu_top.v(217)
+HDL-8007 ERROR: syntax error near ':' in cpu_top.v(218)
+HDL-8007 ERROR: syntax error near 'default' in cpu_top.v(219)
+HDL-8007 ERROR: Verilog 2000 keyword 'default' used in incorrect context in cpu_top.v(219)
+HDL-8007 Similar messages will be suppressed.
+HDL-5007 WARNING: could not find top-level module/unit; aborting hierarchy tree creation
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-5372 WARNING: redeclaration of ANSI port 'clk' is not allowed in cpu_top.v(45)
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+PRJ-1412 : reset_run syn_1 phy_1.
+PRJ-1409 : launch_runs syn_1 phy_1  -jobs 6.
+PRJ-5303 WARNING: Run syn_1 failed.
+RUN-1002 : start command "save_best_bits"
+PRJ-1412 : reset_run syn_1 phy_1.
+PRJ-1409 : launch_runs syn_1 phy_1  -jobs 6.
+PRJ-1410 : Run syn_1 success.
+PRJ-1410 : Run phy_1 success.
+RUN-1002 : start command "save_best_bits"
+PRJ-1424 : The implemented result of phy_1 is saved as best result.
+RUN-1002 : start command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V6.2.168116.
+RUN-1001 : Database version number 46207
+RUN-1001 : Import flow parameters
+RUN-1001 : Import netlist
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : End build routing graph; 0.962382s wall, 0.828125s user + 0.125000s system = 0.953125s CPU (99.0%)
+
+PHY-1001 : Build lut bridge;  0.082731s wall, 0.093750s user + 0.000000s system = 0.093750s CPU (113.3%)
+
+PHY-1001 : Generate nets ...
+PHY-1001 : clock net clk_syn_3 will be merged with clock clk
+PHY-1001 : net clk_50_dup_1 will be routed on clock mesh
+PHY-1001 : eco open net = 0
+PHY-1001 : 10 feed throughs used by 7 nets
+RUN-1001 : Import phy database
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import ChipWatcher
+RUN-1001 : Import design success TD_VERSION=6.2.168116 , DB_VERSION=46207
+RUN-1003 : finish command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db" in  1.580896s wall, 1.359375s user + 0.187500s system = 1.546875s CPU (97.8%)
+
+RUN-1004 : used memory is 529 MB, reserved memory is 543 MB, peak memory is 587 MB
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+PRJ-1412 : reset_run syn_1 phy_1.
+PRJ-1409 : launch_runs syn_1 phy_1  -jobs 6.
+PRJ-1410 : Run syn_1 success.
+RUN-1002 : start command "save_best_bits"
+PRJ-1424 : The implemented result of phy_1 is saved as best result.
+PRJ-1410 : Run phy_1 success.
+RUN-1002 : start command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V6.2.168116.
+RUN-1001 : Database version number 46207
+RUN-1001 : Import flow parameters
+RUN-1001 : Import netlist
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : End build routing graph; 0.985341s wall, 0.906250s user + 0.062500s system = 0.968750s CPU (98.3%)
+
+PHY-1001 : Build lut bridge;  0.082588s wall, 0.062500s user + 0.000000s system = 0.062500s CPU (75.7%)
+
+PHY-1001 : Generate nets ...
+PHY-1001 : clock net clk_syn_3 will be merged with clock clk
+PHY-1001 : net clk_50_dup_1 will be routed on clock mesh
+PHY-1001 : eco open net = 0
+PHY-1001 : 6 feed throughs used by 6 nets
+RUN-1001 : Import phy database
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import ChipWatcher
+RUN-1001 : Import design success TD_VERSION=6.2.168116 , DB_VERSION=46207
+RUN-1003 : finish command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db" in  1.596255s wall, 1.468750s user + 0.078125s system = 1.546875s CPU (96.9%)
+
+RUN-1004 : used memory is 533 MB, reserved memory is 546 MB, peak memory is 587 MB
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-5007 WARNING: literal value 'd24999999 truncated to fit in 18 bits in cpu_top.v(22)
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+PRJ-1412 : reset_run syn_1 phy_1.
+PRJ-1409 : launch_runs syn_1 phy_1  -jobs 6.
+PRJ-1410 : Run syn_1 success.
+RUN-1002 : start command "save_best_bits"
+PRJ-1424 : The implemented result of phy_1 is saved as best result.
+PRJ-1410 : Run phy_1 success.
+RUN-1002 : start command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V6.2.168116.
+RUN-1001 : Database version number 46207
+RUN-1001 : Import flow parameters
+RUN-1001 : Import netlist
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : End build routing graph; 1.067978s wall, 1.015625s user + 0.031250s system = 1.046875s CPU (98.0%)
+
+PHY-1001 : Build lut bridge;  0.093212s wall, 0.078125s user + 0.000000s system = 0.078125s CPU (83.8%)
+
+PHY-1001 : Generate nets ...
+PHY-1001 : clock net clk_syn_3 will be merged with clock clk
+PHY-1001 : net clk_50_dup_1 will be routed on clock mesh
+PHY-1001 : eco open net = 0
+PHY-1001 : 11 feed throughs used by 9 nets
+RUN-1001 : Import phy database
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import ChipWatcher
+RUN-1001 : Import design success TD_VERSION=6.2.168116 , DB_VERSION=46207
+RUN-1003 : finish command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db" in  1.744655s wall, 1.593750s user + 0.093750s system = 1.687500s CPU (96.7%)
+
+RUN-1004 : used memory is 535 MB, reserved memory is 549 MB, peak memory is 587 MB
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+PRJ-1412 : reset_run syn_1 phy_1.
+PRJ-1409 : launch_runs syn_1 phy_1  -jobs 6.
+PRJ-1410 : Run syn_1 success.
+RUN-1002 : start command "save_best_bits"
+PRJ-1424 : The implemented result of phy_1 is saved as best result.
+PRJ-1410 : Run phy_1 success.
+RUN-1002 : start command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V6.2.168116.
+RUN-1001 : Database version number 46207
+RUN-1001 : Import flow parameters
+RUN-1001 : Import netlist
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : End build routing graph; 1.005132s wall, 0.937500s user + 0.046875s system = 0.984375s CPU (97.9%)
+
+PHY-1001 : Build lut bridge;  0.083840s wall, 0.078125s user + 0.000000s system = 0.078125s CPU (93.2%)
+
+PHY-1001 : Generate nets ...
+PHY-1001 : clock net clk_syn_3 will be merged with clock clk
+PHY-1001 : net clk_50_dup_1 will be routed on clock mesh
+PHY-1001 : eco open net = 0
+PHY-1001 : 5 feed throughs used by 5 nets
+RUN-1001 : Import phy database
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import ChipWatcher
+RUN-1001 : Import design success TD_VERSION=6.2.168116 , DB_VERSION=46207
+RUN-1003 : finish command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db" in  1.652226s wall, 1.578125s user + 0.062500s system = 1.640625s CPU (99.3%)
+
+RUN-1004 : used memory is 540 MB, reserved memory is 558 MB, peak memory is 587 MB
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-8007 ERROR: syntax error near 'default' in cpu_top.v(281)
+HDL-8007 ERROR: Verilog 2000 keyword 'default' used in incorrect context in cpu_top.v(281)
+HDL-8007 ERROR: ignore module module due to previous errors in cpu_top.v(1)
+HDL-5007 WARNING: could not find top-level module/unit; aborting hierarchy tree creation
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+PRJ-1412 : reset_run syn_1 phy_1.
+PRJ-1409 : launch_runs syn_1 phy_1  -jobs 6.
+PRJ-1410 : Run syn_1 success.
+RUN-1002 : start command "save_best_bits"
+PRJ-1424 : The implemented result of phy_1 is saved as best result.
+PRJ-1410 : Run phy_1 success.
+RUN-1002 : start command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V6.2.168116.
+RUN-1001 : Database version number 46207
+RUN-1001 : Import flow parameters
+RUN-1001 : Import netlist
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : End build routing graph; 1.080160s wall, 1.031250s user + 0.046875s system = 1.078125s CPU (99.8%)
+
+PHY-1001 : Build lut bridge;  0.101392s wall, 0.078125s user + 0.015625s system = 0.093750s CPU (92.5%)
+
+PHY-1001 : Generate nets ...
+PHY-1001 : clock net clk_syn_3 will be merged with clock clk
+PHY-1001 : net clk_50_dup_1 will be routed on clock mesh
+PHY-1001 : eco open net = 0
+PHY-1001 : 9 feed throughs used by 9 nets
+RUN-1001 : Import phy database
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import ChipWatcher
+RUN-1001 : Import design success TD_VERSION=6.2.168116 , DB_VERSION=46207
+RUN-1003 : finish command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db" in  1.823674s wall, 1.703125s user + 0.109375s system = 1.812500s CPU (99.4%)
+
+RUN-1004 : used memory is 536 MB, reserved memory is 564 MB, peak memory is 587 MB
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+PRJ-1412 : reset_run syn_1 phy_1.
+PRJ-1409 : launch_runs syn_1 phy_1  -jobs 6.
+PRJ-5303 WARNING: Run syn_1 failed.
+RUN-1002 : start command "save_best_bits"
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+PRJ-1412 : reset_run syn_1 phy_1.
+PRJ-1409 : launch_runs syn_1 phy_1  -jobs 6.
+PRJ-1410 : Run syn_1 success.
+PRJ-1410 : Run phy_1 success.
+RUN-1002 : start command "save_best_bits"
+PRJ-1424 : The implemented result of phy_1 is saved as best result.
+RUN-1002 : start command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V6.2.168116.
+RUN-1001 : Database version number 46207
+RUN-1001 : Import flow parameters
+RUN-1001 : Import netlist
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : End build routing graph; 0.968122s wall, 0.937500s user + 0.015625s system = 0.953125s CPU (98.5%)
+
+PHY-1001 : Build lut bridge;  0.090561s wall, 0.062500s user + 0.000000s system = 0.062500s CPU (69.0%)
+
+PHY-1001 : Generate nets ...
+PHY-1001 : clock net clk_syn_3 will be merged with clock clk
+PHY-1001 : net clk_50_dup_1 will be routed on clock mesh
+PHY-1001 : eco open net = 0
+PHY-1001 : 20 feed throughs used by 10 nets
+RUN-1001 : Import phy database
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import ChipWatcher
+RUN-1001 : Import design success TD_VERSION=6.2.168116 , DB_VERSION=46207
+RUN-1003 : finish command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db" in  1.687053s wall, 1.562500s user + 0.031250s system = 1.593750s CPU (94.5%)
+
+RUN-1004 : used memory is 530 MB, reserved memory is 562 MB, peak memory is 587 MB
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+HDL-8007 ERROR: cannot find port 'rst' on this module in cpu_top.v(216)
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+PRJ-1412 : reset_run syn_1 phy_1.
+PRJ-1409 : launch_runs syn_1 phy_1  -jobs 6.
+PRJ-1410 : Run syn_1 success.
+RUN-1002 : start command "save_best_bits"
+PRJ-1424 : The implemented result of phy_1 is saved as best result.
+PRJ-1410 : Run phy_1 success.
+RUN-1002 : start command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V6.2.168116.
+RUN-1001 : Database version number 46207
+RUN-1001 : Import flow parameters
+RUN-1001 : Import netlist
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : End build routing graph; 0.962033s wall, 0.921875s user + 0.046875s system = 0.968750s CPU (100.7%)
+
+PHY-1001 : Build lut bridge;  0.091903s wall, 0.031250s user + 0.000000s system = 0.031250s CPU (34.0%)
+
+PHY-1001 : Generate nets ...
+PHY-1001 : clock net clk_syn_3 will be merged with clock clk
+PHY-1001 : net clk_50_dup_1 will be routed on clock mesh
+PHY-1001 : eco open net = 0
+PHY-1001 : 19 feed throughs used by 11 nets
+RUN-1001 : Import phy database
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import ChipWatcher
+RUN-1001 : Import design success TD_VERSION=6.2.168116 , DB_VERSION=46207
+RUN-1003 : finish command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db" in  1.634517s wall, 1.500000s user + 0.109375s system = 1.609375s CPU (98.5%)
+
+RUN-1004 : used memory is 528 MB, reserved memory is 562 MB, peak memory is 587 MB
+RUN-1002 : start command "commit_param -step design"
+RUN-1001 : Print Global Property
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   Parameters   |  Settings  |  Default Values  |  Note  
+RUN-1001 : --------------------------------------------------------
+RUN-1001 :   enable_seed  |    off     |       off        |        
+RUN-1001 :     message    |  standard  |     standard     |        
+RUN-1001 :   qor_monitor  |     on     |        on        |        
+RUN-1001 :   syn_ip_flow  |    off     |       off        |        
+RUN-1001 :     thread     |    auto    |       auto       |        
+RUN-1001 : --------------------------------------------------------
+RUN-1001 : Print Design Property
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :       Parameters       |  Settings  |  Default Values  |  Note  
+RUN-1001 : ----------------------------------------------------------------
+RUN-1001 :   default_reg_initial  |    auto    |       auto       |        
+RUN-1001 :    hdl_warning_level   |   normal   |      normal      |        
+RUN-1001 : ----------------------------------------------------------------
+HDL-1007 : analyze verilog file cpu_top.v
+HDL-1007 : analyze verilog file digital_show.v
+HDL-1007 : analyze verilog file control_unit.v
+HDL-1007 : analyze verilog file pc.v
+HDL-1007 : analyze verilog file ir.v
+HDL-1007 : analyze verilog file register_file.v
+HDL-1007 : analyze verilog file alu.v
+HDL-1007 : analyze verilog file data_ram.v
+HDL-1007 : analyze verilog file instr_rom.v
+PRJ-1412 : reset_run syn_1 phy_1.
+PRJ-1409 : launch_runs syn_1 phy_1  -jobs 6.
+PRJ-1410 : Run syn_1 success.
+RUN-1002 : start command "save_best_bits"
+PRJ-1424 : The implemented result of phy_1 is saved as best result.
+PRJ-1410 : Run phy_1 success.
+RUN-1002 : start command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db"
+RUN-1001 : Importing database generated by Tang Dynasty, V6.2.168116.
+RUN-1001 : Database version number 46207
+RUN-1001 : Import flow parameters
+RUN-1001 : Import netlist
+PHY-1001 : Generate detailed routing grids ...
+PHY-1001 : End build routing graph; 0.996325s wall, 0.937500s user + 0.062500s system = 1.000000s CPU (100.4%)
+
+PHY-1001 : Build lut bridge;  0.097682s wall, 0.015625s user + 0.000000s system = 0.015625s CPU (16.0%)
+
+PHY-1001 : Generate nets ...
+PHY-1001 : clock net clk_syn_3 will be merged with clock clk
+PHY-1001 : net clk_50_dup_1 will be routed on clock mesh
+PHY-1001 : eco open net = 0
+PHY-1001 : 17 feed throughs used by 11 nets
+RUN-1001 : Import phy database
+RUN-1001 : Import IO constraints
+RUN-1001 : Import Inst constraints
+RUN-1001 : Import ChipWatcher
+RUN-1001 : Import design success TD_VERSION=6.2.168116 , DB_VERSION=46207
+RUN-1003 : finish command "import_db D:/LHY/anlu/CPU/sm_scan_Runs/phy_1/sm_scan_pr.db" in  1.666456s wall, 1.468750s user + 0.078125s system = 1.546875s CPU (92.8%)
+
+RUN-1004 : used memory is 528 MB, reserved memory is 563 MB, peak memory is 587 MB

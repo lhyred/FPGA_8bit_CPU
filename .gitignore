@@ -1,0 +1,5 @@
+# 忽略 FPGA 编译生成的 sm_scan_Runs 整个文件夹
+sm_scan_Runs/
+
+# 忽略log
+log/

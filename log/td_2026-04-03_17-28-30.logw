@@ -1,0 +1,84 @@
+============================================================
+   Tang Dynasty, V6.2.168116
+   Copyright (c) 2012-2025 Anlogic Inc.
+   Executable = D:/Anlogic/TD_6.2.1_Engineer_6.2.168.116/bin/td.exe
+   Built at =   16:32:07 Jun 12 2025
+   Run by =     30736
+   Run Date =   Fri Apr  3 17:28:30 2026
+
+   Run on =     THE_WALK
+============================================================
+GUI-6001 WARNING: File sm_scan.v does not exist!
+GUI-6001 WARNING: File D:/LHY/anlu/CPU/sm_scan.v does not exist!
+HDL-8007 ERROR: 'regs' is not declared under prefix 'u_regfile' in cpu_top.v(189)
+HDL-8007 ERROR: 'regs' is not declared under prefix 'u_regfile' in cpu_top.v(190)
+HDL-8007 ERROR: 'regs' is not declared under prefix 'u_regfile' in cpu_top.v(191)
+HDL-8007 ERROR: 'regs' is not declared under prefix 'u_regfile' in cpu_top.v(192)
+HDL-8007 ERROR: cannot find port 'clk' on this module in cpu_top.v(190)
+HDL-8007 ERROR: cannot find port 'rst' on this module in cpu_top.v(191)
+HDL-8007 ERROR: cannot find port 'opcode' on this module in cpu_top.v(192)
+HDL-8007 ERROR: cannot find port 'z_flag' on this module in cpu_top.v(193)
+HDL-8007 ERROR: cannot find port 'c_flag' on this module in cpu_top.v(194)
+HDL-8007 ERROR: cannot find port 'ir_load' on this module in cpu_top.v(196)
+HDL-8007 ERROR: cannot find port 'pc_load' on this module in cpu_top.v(197)
+HDL-8007 ERROR: cannot find port 'pc_src' on this module in cpu_top.v(198)
+HDL-8007 ERROR: cannot find port 'reg_we' on this module in cpu_top.v(200)
+HDL-8007 ERROR: cannot find port 'mem_we' on this module in cpu_top.v(201)
+HDL-8007 ERROR: cannot find port 'flags_we' on this module in cpu_top.v(202)
+HDL-8007 ERROR: cannot find port 'alu_op' on this module in cpu_top.v(204)
+HDL-8007 ERROR: cannot find port 'wb_sel' on this module in cpu_top.v(205)
+HDL-8007 ERROR: cannot find port 'halt' on this module in cpu_top.v(206)
+HDL-8007 ERROR: cannot find port 'clk' on this module in cpu_top.v(133)
+HDL-8007 ERROR: cannot find port 'rst' on this module in cpu_top.v(134)
+HDL-8007 ERROR: cannot find port 'load' on this module in cpu_top.v(135)
+HDL-8007 ERROR: cannot find port 'next_pc' on this module in cpu_top.v(136)
+HDL-8007 ERROR: cannot find port 'pc_out' on this module in cpu_top.v(137)
+HDL-8007 ERROR: cannot find port 'clk' on this module in cpu_top.v(148)
+HDL-8007 ERROR: cannot find port 'rst' on this module in cpu_top.v(149)
+HDL-8007 ERROR: cannot find port 'load' on this module in cpu_top.v(150)
+HDL-8007 ERROR: cannot find port 'instr_in' on this module in cpu_top.v(151)
+HDL-8007 ERROR: cannot find port 'instr_out' on this module in cpu_top.v(152)
+HDL-8007 ERROR: cannot find port 'clk' on this module in cpu_top.v(158)
+HDL-8007 ERROR: cannot find port 'we' on this module in cpu_top.v(159)
+HDL-8007 ERROR: cannot find port 'raddr1' on this module in cpu_top.v(160)
+HDL-8007 ERROR: cannot find port 'raddr2' on this module in cpu_top.v(161)
+HDL-8007 ERROR: cannot find port 'waddr' on this module in cpu_top.v(162)
+HDL-8007 ERROR: cannot find port 'wdata' on this module in cpu_top.v(163)
+HDL-8007 ERROR: cannot find port 'rdata1' on this module in cpu_top.v(164)
+HDL-8007 ERROR: cannot find port 'rdata2' on this module in cpu_top.v(165)
+HDL-8007 ERROR: cannot find port 'a' on this module in cpu_top.v(170)
+HDL-8007 ERROR: cannot find port 'b' on this module in cpu_top.v(171)
+HDL-8007 ERROR: cannot find port 'alu_op' on this module in cpu_top.v(172)
+HDL-8007 ERROR: cannot find port 'y' on this module in cpu_top.v(173)
+HDL-8007 ERROR: cannot find port 'z' on this module in cpu_top.v(174)
+HDL-8007 ERROR: cannot find port 'c' on this module in cpu_top.v(175)
+HDL-8007 ERROR: cannot find port 'clk' on this module in cpu_top.v(180)
+HDL-8007 ERROR: cannot find port 'we' on this module in cpu_top.v(181)
+HDL-8007 ERROR: cannot find port 'addr' on this module in cpu_top.v(182)
+HDL-8007 ERROR: cannot find port 'din' on this module in cpu_top.v(183)
+HDL-8007 ERROR: cannot find port 'dout' on this module in cpu_top.v(184)
+HDL-8007 ERROR: cannot find port 'addr' on this module in cpu_top.v(142)
+HDL-8007 ERROR: cannot find port 'data' on this module in cpu_top.v(143)
+HDL-8007 ERROR: syntax error near '[' in cpu_top.v(211)
+HDL-8007 ERROR: syntax error near ':' in cpu_top.v(212)
+HDL-8007 ERROR: syntax error near ':' in cpu_top.v(213)
+HDL-8007 ERROR: syntax error near ':' in cpu_top.v(214)
+HDL-8007 ERROR: syntax error near ':' in cpu_top.v(215)
+HDL-8007 ERROR: syntax error near ':' in cpu_top.v(216)
+HDL-8007 ERROR: syntax error near ':' in cpu_top.v(217)
+HDL-8007 ERROR: syntax error near ':' in cpu_top.v(218)
+HDL-8007 ERROR: syntax error near 'default' in cpu_top.v(219)
+HDL-8007 ERROR: Verilog 2000 keyword 'default' used in incorrect context in cpu_top.v(219)
+HDL-8007 ERROR: syntax error near 'endcase' in cpu_top.v(220)
+HDL-8007 ERROR: Verilog 2000 keyword 'endcase' used in incorrect context in cpu_top.v(220)
+HDL-8007 ERROR: ignore module module due to previous errors in cpu_top.v(1)
+HDL-5007 WARNING: could not find top-level module/unit; aborting hierarchy tree creation
+HDL-5372 WARNING: redeclaration of ANSI port 'clk' is not allowed in cpu_top.v(45)
+PRJ-5303 WARNING: Run syn_1 failed.
+HDL-5007 WARNING: literal value 'd24999999 truncated to fit in 18 bits in cpu_top.v(22)
+HDL-8007 ERROR: syntax error near 'default' in cpu_top.v(281)
+HDL-8007 ERROR: Verilog 2000 keyword 'default' used in incorrect context in cpu_top.v(281)
+HDL-8007 ERROR: ignore module module due to previous errors in cpu_top.v(1)
+HDL-5007 WARNING: could not find top-level module/unit; aborting hierarchy tree creation
+PRJ-5303 WARNING: Run syn_1 failed.
+HDL-8007 ERROR: cannot find port 'rst' on this module in cpu_top.v(216)
