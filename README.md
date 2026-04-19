@@ -80,7 +80,7 @@
 | `0xE`  | `JC addr`          | 若 `C==1`，则 `PC <- addr`   | 当 `C=1` 时跳转    |
 | `0xF`  | `HLT`              | 停机                        | 停机             |
 
-详细请见[[指令集]]
+详细请见[指令集](https://github.com/lhyred/FPGA_8bit_CPU/blob/main/Instruction_set.md)
 
 ---
 
@@ -199,11 +199,7 @@ FPGA_8bit_CPU/
 ├─ alu.v              # 算术逻辑单元
 ├─ instr_rom.v        # 指令 ROM
 ├─ data_ram.v         # 数据 RAM
-├─ digital_show.v     # 数码管显示模块
-├─ prog.mem           # 示例机器码程序
-├─ sm_scan.al         # FPGA 工程文件
-├─ sm_scan.adc        # 引脚约束文件
-└─ log/               # 工程日志
+└─ digital_show.v     # 数码管显示模块
 ```
 
 ---

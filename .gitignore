@@ -3,3 +3,8 @@ sm_scan_Runs/
 
 # 忽略log
 log/
+
+# 其他
+sm_scan.al
+sm_scan.adc
+prog.mem
